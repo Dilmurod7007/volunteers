@@ -1,0 +1,532 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-09 17:07+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\common\models.py:13
+msgid "Kiritilgan sana"
+msgstr ""
+
+#: .\common\models.py:14 .\news\models.py:9 .\volunteer\models.py:115
+msgid "O'zgartirilgan sana"
+msgstr ""
+
+#: .\common\models.py:21 .\common\models.py:104 .\news\models.py:35
+#: .\volunteer\models.py:17 .\volunteer\models.py:29 .\volunteer\models.py:41
+#: .\volunteer\models.py:95 .\volunteer\models.py:155 .\volunteer\models.py:166
+msgid "Nomi"
+msgstr ""
+
+#: .\common\models.py:22 .\common\models.py:90
+msgid "Link"
+msgstr ""
+
+#: .\common\models.py:23 .\common\models.py:92 .\common\models.py:108
+msgid "Tartibi"
+msgstr ""
+
+#: .\common\models.py:24
+msgid "Header o'ng tarafga"
+msgstr ""
+
+#: .\common\models.py:25
+msgid "Slag"
+msgstr ""
+
+#: .\common\models.py:26 .\common\models.py:109 .\volunteer\models.py:113
+msgid "Faolmi"
+msgstr ""
+
+#: .\common\models.py:29 .\common\models.py:30
+msgid "Menu"
+msgstr ""
+
+#: .\common\models.py:50 .\common\models.py:51
+msgid "Ijtimoiy tarmoqlar"
+msgstr ""
+
+#: .\common\models.py:70 .\volunteer\models.py:107
+msgid ""
+"Quyidagi formatda kiritishingiz kerak: '+999999999'. 15 raqamgacha ruxsat "
+"etiladi"
+msgstr ""
+
+#: .\common\models.py:71 .\volunteer\models.py:108
+msgid "Telefon raqam"
+msgstr ""
+
+#: .\common\models.py:72 .\common\models.py:87
+msgid "Matn"
+msgstr ""
+
+#: .\common\models.py:73
+msgid "qo'shimcha link"
+msgstr ""
+
+#: .\common\models.py:74
+msgid "Aforizm"
+msgstr ""
+
+#: .\common\models.py:75
+msgid "Bizning maqsad"
+msgstr ""
+
+#: .\common\models.py:81 .\common\models.py:82
+msgid "Sayt Sozlamalari"
+msgstr ""
+
+#: .\common\models.py:86 .\news\models.py:49
+msgid "Sarlavha"
+msgstr ""
+
+#: .\common\models.py:88 .\common\models.py:105 .\news\models.py:18
+#: .\news\models.py:52 .\volunteer\models.py:109
+msgid "Rasm"
+msgstr ""
+
+#: .\common\models.py:91 .\common\models.py:125
+msgid "Faol"
+msgstr ""
+
+#: .\common\models.py:93
+msgid "O'ngdami"
+msgstr ""
+
+#: .\common\models.py:99
+msgid "Slayder"
+msgstr ""
+
+#: .\common\models.py:100
+msgid "Slayderlar"
+msgstr ""
+
+#: .\common\models.py:107
+msgid "Websayt"
+msgstr ""
+
+#: .\common\models.py:115
+msgid "Hamkor"
+msgstr ""
+
+#: .\common\models.py:116
+msgid "Hamkorlar"
+msgstr ""
+
+#: .\common\models.py:121
+msgid "Sahifa nomi"
+msgstr ""
+
+#: .\common\models.py:123
+msgid "Batafsil"
+msgstr ""
+
+#: .\common\models.py:124
+msgid "Vaqti"
+msgstr ""
+
+#: .\common\models.py:128
+msgid "Sahifa"
+msgstr ""
+
+#: .\common\models.py:129
+msgid "Sahifalar"
+msgstr ""
+
+#: .\config\settings.py:157
+msgid "O'zbek"
+msgstr ""
+
+#: .\config\settings.py:158
+msgid "Russian"
+msgstr ""
+
+#: .\config\settings.py:159
+msgid "English"
+msgstr ""
+
+#: .\event\apps.py:8 .\event\models.py:111
+msgid "Tadbir"
+msgstr ""
+
+#: .\event\apps.py:9
+msgid "Tadbirlar"
+msgstr ""
+
+#: .\event\models.py:39
+msgid "Active"
+msgstr ""
+
+#: .\event\models.py:40
+msgid "Finished"
+msgstr ""
+
+#: .\event\models.py:41
+msgid "Bekorqilingan"
+msgstr ""
+
+#: .\event\models.py:44
+msgid "Mavzu"
+msgstr ""
+
+#: .\event\models.py:45 .\volunteer\models.py:87 .\volunteer\models.py:215
+msgid "Tashkilot"
+msgstr ""
+
+#: .\event\models.py:47 .\volunteer\models.py:24 .\volunteer\models.py:30
+#: .\volunteer\models.py:100
+msgid "Davlat"
+msgstr ""
+
+#: .\event\models.py:49
+msgid "Shahar"
+msgstr ""
+
+#: .\event\models.py:51 .\volunteer\models.py:48 .\volunteer\models.py:104
+msgid "Tuman"
+msgstr ""
+
+#: .\event\models.py:53
+msgid "Talablar"
+msgstr ""
+
+#: .\event\models.py:54
+msgid "Talab qilinadigan mahoratlar"
+msgstr ""
+
+#: .\event\models.py:57
+msgid "Tavsifi"
+msgstr ""
+
+#: .\event\models.py:58
+msgid "Boshlanish sanasi"
+msgstr ""
+
+#: .\event\models.py:59
+msgid "Tugash sanasi"
+msgstr ""
+
+#: .\event\models.py:60
+msgid "Boshlanish vaqti"
+msgstr ""
+
+#: .\event\models.py:61
+msgid "Tugash vaqti"
+msgstr ""
+
+#: .\event\models.py:62
+msgid "Yo'nalish"
+msgstr ""
+
+#: .\event\models.py:63
+msgid "Ko'ngillilar soni"
+msgstr ""
+
+#: .\event\models.py:64
+msgid "Ko'ngillilarga pul to'lanadimi?"
+msgstr ""
+
+#: .\event\models.py:65 .\volunteer\models.py:98
+msgid "Bog'lanish uchun shaxs"
+msgstr ""
+
+#: .\event\models.py:66
+msgid "Rasim"
+msgstr ""
+
+#: .\event\models.py:67
+msgid "Layk bosganlar"
+msgstr ""
+
+#: .\event\models.py:70
+msgid "Teglar"
+msgstr ""
+
+#: .\event\models.py:71 .\event\models.py:114
+msgid "Xolati"
+msgstr ""
+
+#: .\event\models.py:73 .\volunteer\models.py:114
+msgid "Yaratilgan sana"
+msgstr ""
+
+#: .\event\models.py:106
+msgid "Registered"
+msgstr ""
+
+#: .\event\models.py:107
+msgid "Canceled"
+msgstr ""
+
+#: .\event\models.py:112
+msgid "Valantyor"
+msgstr ""
+
+#: .\news\apps.py:8 .\news\apps.py:9
+msgid "Yangiliklar"
+msgstr ""
+
+#: .\news\models.py:8
+msgid "Qo'shilgan sana"
+msgstr ""
+
+#: .\news\models.py:17
+msgid "Sarlovha"
+msgstr ""
+
+#: .\news\models.py:20 .\news\models.py:51
+msgid "Asosiy qism"
+msgstr ""
+
+#: .\news\models.py:21
+msgid "Post qilingan vaqt"
+msgstr ""
+
+#: .\news\models.py:36
+msgid "Video"
+msgstr ""
+
+#: .\news\models.py:37
+msgid "Ko'rganlar soni"
+msgstr ""
+
+#: .\news\models.py:54
+msgid "Ko'chirib olganlar soni"
+msgstr ""
+
+#: .\volunteer\apps.py:8 .\volunteer\models.py:86 .\volunteer\models.py:214
+msgid "Volontyor"
+msgstr ""
+
+#: .\volunteer\apps.py:9
+msgid "Volontyorlar"
+msgstr ""
+
+#: .\volunteer\models.py:18
+msgid "Kodi"
+msgstr ""
+
+#: .\volunteer\models.py:25
+msgid "Davlatlar"
+msgstr ""
+
+#: .\volunteer\models.py:36 .\volunteer\models.py:42 .\volunteer\models.py:102
+msgid "Hudud"
+msgstr ""
+
+#: .\volunteer\models.py:37
+msgid "Hududlar"
+msgstr ""
+
+#: .\volunteer\models.py:49
+msgid "Tumanlar"
+msgstr ""
+
+#: .\volunteer\models.py:53 .\volunteer\models.py:59 .\volunteer\models.py:60
+#: .\volunteer\models.py:97
+msgid "Tashkilot turi"
+msgstr ""
+
+#: .\volunteer\models.py:66
+msgid "Siz emailga ega bo'lishingiz kerak"
+msgstr ""
+
+#: .\volunteer\models.py:89
+msgid "Elektron pochta"
+msgstr ""
+
+#: .\volunteer\models.py:90
+msgid "Foydalanuvchi turi"
+msgstr ""
+
+#: .\volunteer\models.py:91
+msgid "Ismi"
+msgstr ""
+
+#: .\volunteer\models.py:92
+msgid "Familiyasi"
+msgstr ""
+
+#: .\volunteer\models.py:93
+msgid "Otasining ismi"
+msgstr ""
+
+#: .\volunteer\models.py:94
+msgid "Tug'ilgan sanasi"
+msgstr ""
+
+#: .\volunteer\models.py:111
+msgid "Ta'rif"
+msgstr ""
+
+#: .\volunteer\models.py:112
+msgid "Xodimmi"
+msgstr ""
+
+#: .\volunteer\models.py:133 .\volunteer\models.py:183
+msgid "Foydalanuvchi"
+msgstr ""
+
+#: .\volunteer\models.py:134
+msgid "Foydalanuvchilar"
+msgstr ""
+
+#: .\volunteer\models.py:149
+msgid "Emailga yuborilgan kod"
+msgstr ""
+
+#: .\volunteer\models.py:150
+msgid "Emailga yuborilgan kodlar"
+msgstr ""
+
+#: .\volunteer\models.py:161 .\volunteer\models.py:187
+msgid "Til"
+msgstr ""
+
+#: .\volunteer\models.py:162
+msgid "Tillar"
+msgstr ""
+
+#: .\volunteer\models.py:172 .\volunteer\models.py:190
+msgid "Maqsad"
+msgstr ""
+
+#: .\volunteer\models.py:173
+msgid "Maqsadlar"
+msgstr ""
+
+#: .\volunteer\models.py:178
+msgid "O'rta"
+msgstr ""
+
+#: .\volunteer\models.py:179
+msgid "O'rta maxsus"
+msgstr ""
+
+#: .\volunteer\models.py:180
+msgid "Bakalavr"
+msgstr ""
+
+#: .\volunteer\models.py:181
+msgid "Magistr"
+msgstr ""
+
+#: .\volunteer\models.py:184
+msgid "O'zingiz haqingizda"
+msgstr ""
+
+#: .\volunteer\models.py:185
+msgid "Ma'lumoti"
+msgstr ""
+
+#: .\volunteer\models.py:186
+msgid "Mutaxassisligi"
+msgstr ""
+
+#: .\volunteer\models.py:189
+msgid "Qiziqishalar"
+msgstr ""
+
+#: .\volunteer\models.py:196
+msgid "Foydalanuvchi profili"
+msgstr ""
+
+#: .\volunteer\models.py:197
+msgid "Foydalanuvchilar profili"
+msgstr ""
+
+#: .\volunteer\models.py:216
+msgid "Reytinggi"
+msgstr ""
+
+#: .\volunteer\models.py:222
+msgid "Volontyor reytinggi"
+msgstr ""
+
+#: .\volunteer\models.py:223
+msgid "Volontyorlar reytinggi"
+msgstr ""
+
+#: .\volunteer\serializers.py:58 .\volunteer\serializers.py:81
+msgid "Parollar mos kelmadi, Iltimos qayta urinib ko'ring!!!"
+msgstr ""
+
+#: .\volunteer\serializers.py:209
+msgid "Yangi kiritilgan parollar mmos kelmadi"
+msgstr ""
+
+#: .\volunteer\serializers.py:211
+msgid "Siz noto'g'ri parol kiritdingiz"
+msgstr ""
+
+#: .\volunteer\utils.py:13
+msgid "Hisobni faollashtirish"
+msgstr ""
+
+#: .\volunteer\utils.py:14
+#, python-brace-format
+msgid "Iltimos ro'yxatdan o'tish uchun ushbu kodni kiriting: {code}"
+msgstr ""
+
+#: .\volunteer\utils.py:19
+msgid "Xato header topildi"
+msgstr ""
+
+#: .\volunteer\utils.py:22
+msgid "Email muvaffaqiyatli yuborildi"
+msgstr ""
+
+#: .\volunteer\utils.py:26
+msgid "Maydonlar to'g'ri to'ldirilganligiga ishonch hosil qiling"
+msgstr ""
+
+#: .\volunteer\views.py:90
+msgid "Tizimda ushbu emailga ega bo'lgan foydalanuvchi mavjud!!!"
+msgstr ""
+
+#: .\volunteer\views.py:126
+msgid "Kiritilgan kod noto'g'ri!!!"
+msgstr ""
+
+#: .\volunteer\views.py:149
+#, python-brace-format
+msgid "Siz {remain_seconds} sekunddan keyin qayta jo'nata olasiz!!!"
+msgstr ""
+
+#: .\volunteer\views.py:159
+msgid "Sizga kod qayta yuborildi!!!"
+msgstr ""
+
+#: .\volunteer\views.py:184
+msgid "Siz ro'yxatdan o'tmagansiz, Iltimos ro'yxatdan o'ting!!!"
+msgstr ""
+
+#: .\volunteer\views.py:191
+msgid "Noto'g'ri parol kiritdingiz"
+msgstr ""
+
+#: .\volunteer\views.py:200
+msgid "Hisob faol emas"
+msgstr ""
+
+#: .\volunteer\views.py:202
+msgid "Hisob mavjud emas"
+msgstr ""
+
+#: .\volunteer\views.py:211
+msgid "Siz hisobdan muvaffaqiyatli chiqdingiz!!!"
+msgstr ""
